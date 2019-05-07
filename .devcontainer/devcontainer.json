@@ -3,6 +3,7 @@
 	"dockerFile": "../Dockerfile",
 	"context": "..",
 	"extensions": [
-		"ms-python.python"
+		"ms-python.python",
+		"streetsidesoftware.code-spell-checker"
 	]
 }
